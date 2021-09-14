@@ -5,4 +5,6 @@ Arama çubuğuna isim yazılarak profilleri arayan ve bulunan sonuca ait bilgile
 
 Bu işlemleri gerçekleştirmek için https://jsonplaceholder.typicode.com/ sunduğu api hizmeti kullanıldı.Api ile 
 gönderilen JSON tipindeki veriler fetch ile çekildi ve sonuçlara göre ekranda listelendi.!
-[profileFinder](https://user-images.githubusercontent.com/76954136/133256440-0beeb828-423e-400c-9f92-f5acf79bbde3.gif)
+
+![profileFinder](https://user-images.githubusercontent.com/76954136/133257523-8ffe4d59-9219-43ca-88ce-47753a8269ac.gif)
+
